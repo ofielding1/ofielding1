@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ofielding1
+- 👋 Hi, I’m @ofielding1. Currently I'm a mainframe software developer who is trying to break into the web development side of tech.
 
 
 <!---
